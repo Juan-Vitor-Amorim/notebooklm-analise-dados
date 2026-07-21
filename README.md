@@ -1,7 +1,3 @@
-# notebooklm-analise-dados
-
----
-
 # 📊 O Mapa da Análise de Dados: Do Zero ao Contrato em 6 Meses
 <img width="1679" height="1049" alt="ee315bcb-f1b4-4d27-aec9-fbb1c8ad815a" src="https://github.com/user-attachments/assets/46631edd-a418-40e2-817f-1ed611f7e3a1" />
 
