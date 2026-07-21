@@ -138,6 +138,32 @@ ETL significa:
 
 ---
 
+## ⚠️ Dificuldades Encontradas ("Cicatrizes")
+
+Durante o desenvolvimento do caderno temático no NotebookLM, algumas dificuldades surgiram:
+
+- Inicialmente, os prompts eram muito genéricos, o que resultava em respostas superficiais e pouco detalhadas.
+
+- Encontrar fontes confiáveis e organizá-las exigiu uma etapa de curadoria, já que materiais diferentes apresentavam conceitos semelhantes com abordagens distintas.
+
+- Em alguns momentos, o NotebookLM misturava conceitos de Data Analytics, Business Intelligence e Data Science, tornando necessário criar perguntas mais específicas.
+
+- Foi preciso testar diferentes formas de solicitar explicações sobre ETL, estatística e ferramentas como Excel, SQL, Power BI e Python para obter respostas mais objetivas.
+
+- Organizar todas as informações em um único documento exigiu selecionar apenas os conceitos mais importantes para evitar excesso de conteúdo.
+
+- A principal lição aprendida foi que a qualidade das respostas depende diretamente da qualidade dos prompts utilizados.
+
+### 🔧 Estratégias utilizadas para resolver os problemas
+
+- Dividir perguntas complexas em perguntas menores.
+- Solicitar exemplos práticos.
+- Pedir comparações entre conceitos semelhantes.
+- Restringir as respostas apenas às fontes carregadas no NotebookLM.
+- Refinar os prompts até obter respostas mais completas.
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
 - NotebookLM
@@ -146,7 +172,6 @@ ETL significa:
 - ChatGPT
 
 ---
-
 
 ## 📝 Links do projeto:
 - [Projeto no NotebookLM](https://notebooklm.google.com/notebook/734ae173-7d49-4de2-8c22-3e10202ceb94)
